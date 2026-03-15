@@ -2,4 +2,4 @@ just a basic programm to draw using Fourier's series, inspired by Youtube videos
 
 #Demo:
 
-(demoFourier.gif)
+![Demo of Fourier Drawing](demoFourier.gif)
